@@ -45,7 +45,7 @@ Using 8 years of monthly ABS retail turnover data (July 2015 – June 2023), thi
 ```
 Answers_Report_1.pdf         # Written report (Exercise 3) — attribution, scope, application,
                              # analysis, articulation of issues, critique, position
-BUSA3015_Report1.xlsx        # Excel workbook — all three exercises with models and forecasts
+Report_1.xlsx        # Excel workbook — all three exercises with models and forecasts
 ```
 
 ---
